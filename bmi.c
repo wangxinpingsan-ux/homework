@@ -2,6 +2,7 @@
 
   int main ()
   {
+    int a = 0;
     float height =0,weight =0;
     printf("enter height ");
     scanf("%f",& height);
